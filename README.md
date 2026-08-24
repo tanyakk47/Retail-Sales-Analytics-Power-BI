@@ -51,6 +51,8 @@
 - Area chart обсягів продажу по місяцях із трендовою лінією
 - Картки Total Value Sales (EUR) та Total Volume Cups Sales
 - Слайсер Segment (з винятком для карток) — **всього 0.49T EUR / 11.78bn cups**
+<img width="2224" height="1278" alt="image" src="https://github.com/user-attachments/assets/8720c531-df53-473d-a4f7-bc119e225a6d" />
+
 
 ### 2. Sales Performance *(Intermediate)*
 Розрахунок ключових часових метрик "з чистого DAX" без стандартних Time Intelligence функцій.
@@ -58,12 +60,16 @@
 - Три матриці Top-5 виробників за часткою продажів (MAT / YTD / MTD)
 - Картки Sales Value / MAT TY / YTD TY / MTD TY
 - Слайсери Region + Currency (EUR/CHF), синхронізовані з наступною сторінкою
+<img width="2233" height="1261" alt="image" src="https://github.com/user-attachments/assets/e739107f-7f90-4080-b97f-cd69c5fc8901" />
+
 
 ### 3. Country Sales Analysis *(Intermediate)*
 Географічний зріз динаміки продажів.
 - Стовпчиковий графік MAT TY по місяцях 2020 з підсумковим стовпцем MAT
 - Filled Map з інтерактивним вибором країн
 - Комбінований лінійно-стовпчиковий графік: Sales MAT TY + Share MAT TY по країнах
+<img width="2245" height="1286" alt="image" src="https://github.com/user-attachments/assets/8a4fa9d5-7de2-40af-9db3-6dadfc95d945" />
+
 
 ### 4. NCB vs MASH *(Advanced)*
 Звірка розходжень між двома джерелами даних по 5 країнах (Brazil, Egypt, Japan, Spain, UK).
@@ -73,6 +79,8 @@
 - Матриця Country × Month Year з градієнтним умовним форматуванням за абсолютною розбіжністю
 - Картка з переліком активних фільтрів сторінки
 - Слайсери: Player, MAT Data Ending, Country, Periods (MAT / MAT LY / YTD / YTD LY)
+<img width="2263" height="1274" alt="image" src="https://github.com/user-attachments/assets/13e32500-6d73-4c9a-a784-3c7ff4dfe910" />
+
 
 ---
 
