@@ -90,5 +90,5 @@
 ├── Retail_Sales_Analytics.pbix       # готовий інтерактивний дашборд (4 сторінки)
 ├── Coffee_data.csv                   # вихідні дані продажів кави
 ├── FOREX.xlsx                        # довідник курсів валют
-├── MASH.xlsx                         # дані другого джерела для звірки (Advanced)
+├── MASH.xlsx                         # вибірка даних MASH для порівняння Value Sales з NCB
 ```
